@@ -37,8 +37,8 @@ if(function_exists('date_default_timezone_set')) {
 					<td><span contenteditable><?php echo date("d"); ?>, <?php echo date("M"); ?> <?php echo date("Y"); ?></span></td>
 				</tr>
 				<tr>
-					<th><span >Amount</span></th>
-					<td><span id="prefix" contenteditable><i class="fas fa-rupee-sign"></i></span><span>00.00</span></td>
+					<th><span >Total Amount</span></th>
+					<td><span data-prefix><i class="fas fa-rupee-sign"></i></span><span>0.00</span></td>
 				</tr>
 			</table>
 			<table class="inventory">
