@@ -13,7 +13,7 @@
 		<header>
 			<h1>Invoice</h1>
 			<img style="float: right;" alt="logo" width="200px" height="110px" src="image1.png" />
-			<p>For any enquiry, reach out via  call on<em style="color: blue;">+91 9140040809</em> or <em style="color: blue;">9410003304</em>.</p>
+			
 		</header>
 		<article>
 			<address >
@@ -92,8 +92,8 @@
 }
 		</style>
 		<div class="absolute">
-			<strong>This is an electronically generated document, no signature is required.</strong>
-			
+			<p style="font-size: 20px;">For any enquiry, reach out via  call on<em style="color: blue;"> +91 9140040809</em> or <em style="color: blue;"> +91 9410003304</em>.</p><br>
+			<p style="font-size: 15px;">This is an electronically generated document, no signature is required.</p>
 		</div>
 	</body>
 </html>
