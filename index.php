@@ -88,7 +88,7 @@
 			div.absolute {
   position: absolute;
   width: 100%;
-  bottom: 10px;
+  bottom: 20px;
 }
 		</style>
 		<div class="absolute">
