@@ -18,7 +18,7 @@
 			<address>
 				<p>Aditya & Gaurav</p>
 				<p>India</p>
-				<p>9140040809, 9410003304</p>
+				<p>9410003304</p>
 			</address>
 			
 		</header>
