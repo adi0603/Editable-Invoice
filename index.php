@@ -33,7 +33,7 @@
 					<td><span contenteditable><?php echo date("d"); ?>, <?php echo date("M"); ?> <?php echo date("Y"); ?></span></td>
 				</tr>
 				<tr>
-					<th><span >Amount</span></th>
+					<th><span >Amount Due</span></th>
 					<td><span id="prefix" contenteditable><i class="fas fa-rupee-sign"></i></span><span>00.00</span></td>
 				</tr>
 			</table>
@@ -74,7 +74,7 @@
 			</table>
 		</article>
 		<aside>
-			<h1><span >Additional Notes</span></h1>
+			<h1><span >Terms and Conditions</span></h1>
 			<div contenteditable>
 				<p>Enter Terms And Condition......</p>
 			</div>
