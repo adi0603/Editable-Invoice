@@ -1,5 +1,3 @@
-
-
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -15,12 +13,7 @@
 		<header>
 			<h1>Invoice</h1>
 			<img style="float: right;" alt="logo" width="200px" height="110px" src="image1.png" />
-			<address>
-				<p>Aditya & Gaurav</p>
-				<p>India</p>
-				<p>9410003304</p>
-			</address>
-			
+			<p>For any enquiry, reach out via  call on<em style="color: blue;">+91 9140040809</em> or <em style="color: blue;">9410003304</em>.</p>
 		</header>
 		<article>
 			<address >
@@ -79,9 +72,28 @@
 				<p>Enter Terms And Condition......</p>
 			</div>
 		</aside>
+		<br>
+		<br>
+		<aside>
+			<h1><span >Additional Notes</span></h1>
+			<div contenteditable>
+				<p>Enter Additional Notes......</p>
+			</div>
+		</aside>
 
 		<center>
 			<a onclick="window.print()" title="Print the Invoice" class="print"><i class="fas fa-print"></i></a>
 		</center>
+		<style type="text/css">
+			div.absolute {
+  position: absolute;
+  width: 100%;
+  bottom: 10px;
+}
+		</style>
+		<div class="absolute">
+			<strong>This is an electronically generated document, no signature is required.</strong>
+			
+		</div>
 	</body>
 </html>
