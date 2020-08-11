@@ -69,7 +69,12 @@
 		<aside>
 			<h1><span >Terms and Conditions</span></h1>
 			<div contenteditable>
-				<p>Enter Terms And Condition......</p>
+				<ul>
+	<li>This does not contain a price for Hosting and domain.</li>
+	<li>Content is to be provided by the client for the website.</li>
+	<li>The timeline may vary while the project is in the process if the situations arise client will be informed prior.</li>
+	<li>First Month Maintenance is free.</li>
+</ul>
 			</div>
 		</aside>
 		<br>
