@@ -92,7 +92,7 @@
 }
 		</style>
 		<div class="absolute">
-			<p style="font-size: 20px;">For any enquiry, reach out via  call on<em style="color: blue;"> wecodeyourelax@gmail.com</em></p><br>
+			<p style="font-size: 20px;">For any enquiry, reach out via  mailing us to <em style="color: blue;"> wecodeyourelax@gmail.com</em></p><br>
 			<p style="font-size: 15px;">This is an electronically generated document, no signature is required.</p>
 		</div>
 	</body>
