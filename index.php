@@ -74,12 +74,12 @@
 		</aside>
 		<br>
 		<br>
-		<aside>
+<!-- 		<aside>
 			<h1><span >Additional Notes</span></h1>
 			<div contenteditable>
 				<p>Enter Additional Notes......</p>
 			</div>
-		</aside>
+		</aside> -->
 
 		<center>
 			<a onclick="window.print()" title="Print the Invoice" class="print"><i class="fas fa-print"></i></a>
